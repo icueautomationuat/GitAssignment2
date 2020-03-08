@@ -1,2 +1,6 @@
 This is main original code
+
 Updating code for feature1
+
+Code changes for feature2
+
